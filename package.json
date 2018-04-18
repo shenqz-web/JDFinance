@@ -51,6 +51,7 @@
       "node/no-extraneous-import": "error",
       "node/no-missing-import": "error",
       "node/no-unpublished-import": "error",
+      "linebreak-style": [0 ,"error", "windows"],
       "vue/html-indent": [
         "error",
         4
