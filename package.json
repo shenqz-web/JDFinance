@@ -65,7 +65,8 @@
   },
   "eslintIgnore": [
     "node_modules",
-    "webpack.config.js"
+    "webpack.config.js",
+    "app/js/viewport.js"
   ],
   "homepage": "https://gitlab.com/imooc/vuejs#README",
   "dependencies": {
